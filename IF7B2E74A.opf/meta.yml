@@ -1,0 +1,16 @@
+id: IF7B2E74A
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:24:52.836218
+last_modified: 2023-02-10 00:24:52.836317
+source_metadata:
+  title: 'Asaṅga: Abhidharmasamuccaya'
+  language: en
+bases:
+  A15A:
+    base_file: A15A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

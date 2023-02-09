@@ -1,0 +1,15 @@
+id: 57c54a167e9d476597806e62b3e45d74
+annotation_type: index
+revision: '00001'
+annotations:
+  3254e2c97b1142f4902b259f0c849aa4:
+    base: A15A.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Chapter II
+      span:
+        start: 11
+        end: 24251
